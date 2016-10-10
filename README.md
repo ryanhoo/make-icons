@@ -1,5 +1,7 @@
 # Make Great Icons
 
+<img src='http://ww2.sinaimg.cn/mw690/460030e8gw1f7pvsp9mxtg208w08wwjg.gif' alt='sample tutorial' width='320'/>
+
 This project is a demonstration for practicing Sketch skills by following the tutorial **#makeicons** step by step.
 
 [#makeicons](https://twitter.com/hashtag/makeicons?src=hash) is an activity started by [Allen Wang](https://dribbble.com/openallen) by making cool icons in several simple but definitely inspirational steps. After you go through the tutorial you should be able to create your own icons fast and gracefully.
