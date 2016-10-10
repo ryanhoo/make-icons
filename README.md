@@ -24,4 +24,4 @@ This project is a demonstration for practicing Sketch skills by following the tu
 ## Acknowledgements
 
 - Thanks [Allen](https://github.com/allenwong) for sharing such a wonderful tutorial.
-- [Sketch](https://www.sketchapp.com/) is incrediblely friendly to new beginners, I love it!
+- [Sketch](https://www.sketchapp.com/) is incredible friendly to new beginners, I love it!
