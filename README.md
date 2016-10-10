@@ -12,6 +12,8 @@ This project is a demonstration for practicing Sketch skills by following the tu
 
 ## Icons
 
+These icons are made in  24x24 in Sketch, you can download the svg files from [icons](icons/) folder. Also you can download the [make-icons.sketch](make-icons.sketch) and do anything to satisfy your needs.
+
 - [001 heart](http://ww2.sinaimg.cn/mw690/460030e8gw1f7pvsp9mxtg208w08wwjg.gif) <img src='icons/001-heart.png' alt='001 heart' width='24'/>
 - [002 music](http://ww1.sinaimg.cn/mw690/460030e8gw1f7r1fxcgotg208w08wai6.gif) <img src='icons/002-music.png' alt='002 music' width='24'/>
 - [003 location](http://ww2.sinaimg.cn/mw690/460030e8gw1f7s5xvgfe4g20b40b4n3o.gif) <img src='icons/003-location.png' alt='003 location' width='24'/>
