@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>003 location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-96.000000, 0.000000)">
+            <g id="003-location" transform="translate(96.000000, 0.000000)">
+                <rect id="bounds" fill="#9B9B9B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,19 C13.1042676,19 17,12.0483578 17,9.54063457 C17,7.03291134 14.7614237,5 12,5 C9.23857625,5 7,7.03291134 7,9.54063457 C7,12.0483578 10.8957324,19 12,19 Z M12,12 C13.6568542,12 15,10.6568542 15,9 C15,7.34314575 13.6568542,6 12,6 C10.3431458,6 9,7.34314575 9,9 C9,10.6568542 10.3431458,12 12,12 Z M12,10 C12.5522847,10 13,9.55228475 13,9 C13,8.44771525 12.5522847,8 12,8 C11.4477153,8 11,8.44771525 11,9 C11,9.55228475 11.4477153,10 12,10 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

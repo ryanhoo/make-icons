@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>004 cloudy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-240.000000, -1.000000)">
+            <g id="004-cloudy" transform="translate(240.000000, 1.000000)">
+                <rect id="bounds" fill="#9B9B9B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M7,12 C7,10.8954305 7.8954305,10 9,10 C9.49591825,10 9.94967955,10.1804953 10.2991742,10.4793762 C10.8976495,9.02439524 12.3291946,8 14,8 C16.209139,8 18,9.790861 18,12 C18,12.088264 17.9971412,12.1758604 17.9915112,12.2627015 C18.5941282,12.6059898 19,13.2522547 19,14 C19,15.1045695 18.1029399,16 16.9941413,16 L7.00585866,16 C5.89805351,16 5,15.1122704 5,14 C5,12.8973766 5.89390193,12.0031559 7,12.0000083 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

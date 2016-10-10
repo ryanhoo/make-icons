@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>002 music</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-48.000000, 0.000000)">
+            <g id="002-music" transform="translate(48.000000, 0.000000)">
+                <rect id="bounds" fill="#9B9B9B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M17,8.11111111 L10,8.88888889 L10,16.5 C10,17.3284271 9.1045695,18 8,18 C6.8954305,18 6,17.3284271 6,16.5 C6,15.6715729 6.8954305,15 8,15 C8.36428714,15 8.70582663,15.0730457 9,15.2006733 L9,8.75 L9,8 L18,7 L18,7.75 L18,15.5 C18,16.3284271 17.1045695,17 16,17 C14.8954305,17 14,16.3284271 14,15.5 C14,14.6715729 14.8954305,14 16,14 C16.3642871,14 16.7058266,14.0730457 17,14.2006733 L17,8.11111111 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
