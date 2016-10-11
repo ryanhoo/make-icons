@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>005 fullscreen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dark-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-336.000000, -1.000000)">
+            <g id="005-fullscreen" transform="translate(336.000000, 1.000000)">
+                <rect id="bounds" fill="#9B9B9B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M8.6862915,4 L4,4 L4,8.6862915 L8.6862915,4 Z M15.3137085,4 L20,4 L20,8.6862915 L15.3137085,4 Z M20,15.3137085 L20,20 L15.3137085,20 L20,15.3137085 Z M8.6862915,20 L4,20 L4,15.3137085 L8.6862915,20 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <path d="M16.3333333,9.66666667 L19,7 L17,5 L14.3333333,7.66666667 L16.3333333,9.66666667 Z M9.66666667,7.66666667 L7,5 L5,7 L7.66666667,9.66666667 L9.66666667,7.66666667 Z M7.66666667,14.3333333 L5,17 L7,19 L9.66666667,16.3333333 L7.66666667,14.3333333 Z M14.3333333,16.3333333 L17,19 L19,17 L16.3333333,14.3333333 L14.3333333,16.3333333 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
