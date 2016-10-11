@@ -27,6 +27,9 @@ These icons are made in  24x24 in Sketch, you can download the svg files from [i
 	- [1](http://ww2.sinaimg.cn/mw690/460030e8gw1f7v2rayy22g208w08w7ci.gif) <img src='icons/006-settings-1.png' alt='006 settings 1' width='24'/>
 	- [2](http://ww4.sinaimg.cn/mw690/460030e8gw1f7v2r85x3cg208w08wh0e.gif) <img src='icons/006-settings-2.png' alt='006 settings 2' width='24'/>
 - [007 chat](http://ww4.sinaimg.cn/mw690/460030e8gw1f7walwx9bzg208w08wtfl.gif) <img src='icons/007-chat.png' alt='007 chat' width='24'/>
+- [008 camera](http://ww3.sinaimg.cn/mw690/460030e8gw1f7xp0uf20kg208w08wjyb.gif) <img src='icons/008-camera.png' alt='008 camera' width='24'/>
+- [009 ring bell](http://ww1.sinaimg.cn/mw690/460030e8gw1f7z4d9lgt9g208w08wgsp.gif) <img src='icons/009-ring-bell.png' alt='009 ring bell' width='24'/>
+- [010 volume](http://ww3.sinaimg.cn/mw690/460030e8gw1f808vwzch5g208w08wgxl.gif) <img src='icons/010-volume.png' alt='010 volume' width='24'/>
 - [030 download](http://ww3.sinaimg.cn/mw690/460030e8gw1f8ncx4nsqng208w08wjx2.gif) <img src='icons/030-download.png' alt='030 download' width='24'/>
 - more icons coming soon...
 
@@ -34,3 +37,12 @@ These icons are made in  24x24 in Sketch, you can download the svg files from [i
 
 - Thanks [Allen](https://github.com/allenwong) for sharing such a wonderful tutorial.
 - [Sketch](https://www.sketchapp.com/) is incredible friendly to new beginners, I love it!
+
+## License
+
+[Attribution 3.0 United States (CC BY 3.0 US)](https://creativecommons.org/licenses/by/3.0/us/)
+
+>
+> THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+>
+> BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
