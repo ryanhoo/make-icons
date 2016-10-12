@@ -30,6 +30,14 @@ These icons are made in  24x24 in Sketch, you can download the svg files from [i
 - [008 camera](http://ww3.sinaimg.cn/mw690/460030e8gw1f7xp0uf20kg208w08wjyb.gif) <img src='icons/008-camera.png' alt='008 camera' width='24'/>
 - [009 ring bell](http://ww1.sinaimg.cn/mw690/460030e8gw1f7z4d9lgt9g208w08wgsp.gif) <img src='icons/009-ring-bell.png' alt='009 ring bell' width='24'/>
 - [010 volume](http://ww3.sinaimg.cn/mw690/460030e8gw1f808vwzch5g208w08wgxl.gif) <img src='icons/010-volume.png' alt='010 volume' width='24'/>
+- [011 wifi](http://ww2.sinaimg.cn/mw690/460030e8gw1f81di4u4syg208w08wqnu.gif) <img src='icons/011-wifi.png' alt='011 wifi' width='24'/>
+- [012 lock](http://ww2.sinaimg.cn/mw690/460030e8gw1f82kwl9lggg208w08wqb3.gif) <img src='icons/012-lock.png' alt='012 lock' width='24'/>
+- [013 folder](http://ww2.sinaimg.cn/mw690/460030e8gw1f83qspnz2rg208w08wn6v.gif) <img src='icons/013-folder.png' alt='013 folder' width='24'/>
+- [014 envelope](http://ww4.sinaimg.cn/mw690/460030e8gw1f84ikarqc6g208w08wdng.gif) <img src='icons/014-envelope.png' alt='014 envelope' width='24'/>
+- [015 flag](http://ww1.sinaimg.cn/mw690/460030e8gw1f8671eve1gg208w08wtfs.gif) <img src='icons/015-flag.png' alt='015 flag' width='24'/>
+- [016 wrench](http://ww2.sinaimg.cn/mw690/460030e8gw1f87ako0zyjg208w08wjwt.gif) <img src='icons/016-wrench.png' alt='016 wrench' width='24'/>
+- [017 debate](http://ww1.sinaimg.cn/mw690/460030e8gw1f87ygtblyjg208w08wtqe.gif) <img src='icons/017-debate.png' alt='017 debate' width='24'/>
+- [018 avatar](http://ww2.sinaimg.cn/mw690/460030e8gw1f89m4zuzwlg208w08w7co.gif) <img src='icons/018-avatar.png' alt='018 avatar' width='24'/>
 - [030 download](http://ww3.sinaimg.cn/mw690/460030e8gw1f8ncx4nsqng208w08wjx2.gif) <img src='icons/030-download.png' alt='030 download' width='24'/>
 - more icons coming soon...
 

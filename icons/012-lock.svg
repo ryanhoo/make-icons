@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>012 lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dark-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-336.000000, -48.000000)">
+            <g id="012-lock" transform="translate(336.000000, 48.000000)">
+                <rect id="bounds" fill="#9B9B9B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M13.200039,15.6001171 C13.6857955,15.2352328 14,14.6543096 14,14 C14,12.8954305 13.1045695,12 12,12 C10.8954305,12 10,12.8954305 10,14 C10,14.6543096 10.3142045,15.2352328 10.799961,15.6001171 L10,18 L14,18 L13.200039,15.6001171 Z M8,10 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,10 L20,10 L20,20 L4,20 L4,10 L8,10 Z M14,10 L14,8 L10,8 L10,10 L14,10 Z M14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L14,8 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
