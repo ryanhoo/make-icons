@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>021 ring</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dark-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(0.000000, -144.000000)">
+            <g id="021-ring" transform="translate(0.000000, 144.000000)">
+                <rect id="bounds" fill="#9B9B9B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M14.9,7 L12,9.9 L9.1,7 L9,7 L9.04405602,6.94405602 L9,6.9 L9.07875023,6.9 L10.5750046,5 L13.4249954,5 L14.9212498,6.9 L15,6.9 L14.955944,6.94405602 L15,7 L14.9,7 Z M15.4458136,8.08751969 C16.9905028,9.17302901 18,10.9686242 18,13 C18,16.3137085 15.3137085,19 12,19 C8.6862915,19 6,16.3137085 6,13 C6,10.9686242 7.00949716,9.17302901 8.55418635,8.08751969 L9.27426762,8.80760095 C7.90512917,9.69958314 7,11.2440894 7,13 C7,15.7614237 9.23857625,18 12,18 C14.7614237,18 17,15.7614237 17,13 C17,11.2440894 16.0948708,9.69958314 14.7257324,8.80760095 L15.4458136,8.08751969 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

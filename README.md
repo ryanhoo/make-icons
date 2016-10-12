@@ -38,6 +38,17 @@ These icons are made in  24x24 in Sketch, you can download the svg files from [i
 - [016 wrench](http://ww2.sinaimg.cn/mw690/460030e8gw1f87ako0zyjg208w08wjwt.gif) <img src='icons/016-wrench.png' alt='016 wrench' width='24'/>
 - [017 debate](http://ww1.sinaimg.cn/mw690/460030e8gw1f87ygtblyjg208w08wtqe.gif) <img src='icons/017-debate.png' alt='017 debate' width='24'/>
 - [018 avatar](http://ww2.sinaimg.cn/mw690/460030e8gw1f89m4zuzwlg208w08w7co.gif) <img src='icons/018-avatar.png' alt='018 avatar' width='24'/>
+- [019 gallery](http://ww2.sinaimg.cn/mw690/460030e8gw1f8ahchbrsug208w08w13k.gif) <img src='icons/019-gallery.png' alt='019 gallery' width='24'/>
+- [020 headphone](http://ww2.sinaimg.cn/mw690/460030e8gw1f8bh0zwu3gg208w08wq8z.gif) <img src='icons/020-headphone.png' alt='020 headphone' width='24'/>
+- [021 ring](http://ww2.sinaimg.cn/mw690/460030e8gw1f8c7ifbw5vg208w08wn3f.gif) <img src='icons/021-ring.png' alt='021 ring' width='24'/>
+- [022 trash](http://ww2.sinaimg.cn/mw690/460030e8gw1f8dpiff7eog208w08wdn5.gif) <img src='icons/022-trash.png' alt='022 trash' width='24'/>
+- [023 command](http://ww2.sinaimg.cn/mw690/460030e8gw1f8emsx4ky6g208w08w0y0.gif) <img src='icons/023-command.png' alt='023 command' width='24'/>
+- [024 plane](http://ww1.sinaimg.cn/mw690/460030e8gw1f8fwuv8by5g208w08w44k.gif) <img src='icons/024-plane.png' alt='024 plane' width='24'/>
+- [025 home](http://ww3.sinaimg.cn/mw690/460030e8gw1f8h5mzokyhg208w08wtmw.gif) <img src='icons/025-home.png' alt='025 home' width='24'/>
+- [026 clock](http://ww4.sinaimg.cn/mw690/460030e8gw1f8ibagtubbg208w08wtq2.gif) <img src='icons/026-clock.png' alt='026 clock' width='24'/>
+- [027 campass](http://ww1.sinaimg.cn/mw690/460030e8gw1f8je855flhg208w08wwkk.gif) <img src='icons/027-campass.png' alt='027 campass' width='24'/>
+- [028 refresh](http://ww1.sinaimg.cn/mw690/460030e8gw1f8kkwto16sg208w08wk0p.gif) <img src='icons/028-refresh.png' alt='028 refresh' width='24'/>
+- [029 telephone](http://ww2.sinaimg.cn/mw690/460030e8gw1f8mefxknnzg208w08wk5d.gif) <img src='icons/029-telephone.png' alt='029 telephone' width='24'/>
 - [030 download](http://ww3.sinaimg.cn/mw690/460030e8gw1f8ncx4nsqng208w08wjx2.gif) <img src='icons/030-download.png' alt='030 download' width='24'/>
 - more icons coming soon...
 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>019 gallery</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dark-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-288.000000, -96.000000)">
+            <g id="019-gallery" transform="translate(288.000000, 96.000000)">
+                <rect id="bounds" fill="#9B9B9B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,17 L5,17 L5.11914318,16.8212852 C5.0448525,16.7323162 5,16.6167965 5,16.4903505 L5,7.50964952 C5,7.22817786 5.21990657,7 5.49826741,7 L18.5017326,7 C18.7769181,7 19,7.22765279 19,7.50964952 L19,16.4903505 C19,16.7718221 18.7800934,17 18.5017326,17 L5.49826741,17 C5.34647383,17 5.21053367,16.9307326 5.11914318,16.8212852 L9,11 L12.0588235,15.5882353 L14,13 L17,17 L12,17 Z M4,6.50034732 C4,6.22401312 4.22618103,6 4.4963932,6 L19.5036068,6 C19.7777572,6 20,6.22900057 20,6.50034732 L20,17.4996527 C20,17.7759869 19.773819,18 19.5036068,18 L4.4963932,18 C4.22224281,18 4,17.7709994 4,17.4996527 L4,6.50034732 Z M16,11 C16.5522847,11 17,10.5522847 17,10 C17,9.44771525 16.5522847,9 16,9 C15.4477153,9 15,9.44771525 15,10 C15,10.5522847 15.4477153,11 16,11 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
